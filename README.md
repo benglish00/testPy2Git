@@ -5,7 +5,7 @@ This is attempt number 9000 to get a file to publish to GitHub.
     I also switched git SSH to "Native"
     Not sure if any of this was necessary because it didn't work on its own.
 2. I have created a local repository with GitHub Desktop
-3. I have imported that repository into Pycharm
+3. I have imported that repository into Pycharm (use Open)
 4.  I edited the automatic Reademe.md.
 5.  I made a "hello world" python script
 6.  I committed to the local repository. Success.
