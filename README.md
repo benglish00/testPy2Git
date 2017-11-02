@@ -1,5 +1,5 @@
 # testPy2Git
-# This is attempt number 9000 to get a file to publish to GitHub.
+This is attempt number 9000 to get a file to publish to GitHub.
 1.  I have installed Gitbash for window and updated the git.exe t
     I also generated an SSH key with gitbash and pasted it in github.
     I also switched git SSH to "Native"
@@ -11,6 +11,11 @@
 6.  I committed to the local repository. Success.
 7.  I pushed GitHubDesktop to GitHub success
 8. Now I can commit and push directly to Github? wow. awesome.
-# success
+SUCCESS!
 
-9. Will this make a new branch?
+# New Branch
+1. VCS-> Git -> Branches -> + New Branch
+2. Named it "New Branch"
+3. It is now current.
+4. Commit and push into "New Branch"
+SUCCESS.
